@@ -13,4 +13,5 @@ class TestDate:
             ]
         ).strftime("%d.%m.%Y")
         print()
+        print(f"Month: {month}, Year: {year}")
         print(f"Date: {date}")
